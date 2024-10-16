@@ -61,3 +61,9 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-solano-2bb968216/)
 
 
+
+
+
+ 
+![ProfileViews](https://komarev.com/ghpvc/?username=pablosolanoc&label=Profile%20views&color=0e75b6&style=flat)👀
+
