@@ -1,9 +1,10 @@
 <h2>👋 Hi, I'm Pablo Solano! <img src="https://media.giphy.com/media/OPzUY4cBAk5W9GOKrj/giphy.gif" width="50"> </h2>
 <img align='right' src="https://pablosolanoc.github.io/images/me2.gif" width="115">
-<p>Full-Stack developer, currently working as a Web UI Developer (Ssr Adv) at <a href=https://www.globant.com/">Globant</a> <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30">
-</br>
-Systems Engineer graduated at <a href="https://www.ucuenca.edu.ec/">Universidad de Cuenca</a>  <img src="https://media.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif" width="30"> 
-</p>
+
+- 💻 Full-Stack developer, currently working as a Web UI Developer (Ssr Adv) at <a href="https://www.globant.com/">Globant</a> <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30">
+- 🎓 Systems Engineer graduated at <a href="https://www.ucuenca.edu.ec/">Universidad de Cuenca</a>
+- 📫 You can check my [website](https://pablosolanoc.github.io/)
+
 
 <h2>Top Skills</h2>
 
