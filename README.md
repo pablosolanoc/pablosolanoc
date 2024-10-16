@@ -1,5 +1,5 @@
 <h2>👋 Hi, I'm Pablo Solano! <img src="https://media.giphy.com/media/OPzUY4cBAk5W9GOKrj/giphy.gif" width="50"> </h2>
-<img align='right' src="https://pablosolanoc.github.io/images/me2.gif" width="115">
+
 
 - 💻 Full-Stack developer, currently working as a Web UI Developer (Ssr Adv) at <a href="https://www.globant.com/">Globant</a> <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30">
 - 🎓 Systems Engineer graduated at <a href="https://www.ucuenca.edu.ec/">Universidad de Cuenca</a>
@@ -55,18 +55,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
+<h2>Connect with me</h2>
 
-<!--
-**pablosolanoc/pablosolanoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pablosolano61098@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-solano-2bb968216/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
